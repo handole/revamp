@@ -38,7 +38,7 @@
 	font-weight: 800;
 }
 .top-nav ul li  a i {
-background: url(../images/img-sprite.png) no-repeat -14px -2px;
+background: url(img/img-sprite.png) no-repeat -14px -2px;
   width: 30px;
   height: 30px;
   display: inline-block;
@@ -51,7 +51,7 @@ background: url(../images/img-sprite.png) no-repeat -14px -2px;
 	background-color: transparent;
 }
 .banner{
-	background:url(../img/banner.jpg) no-repeat center;
+	background:url(img/banner.jpg) no-repeat center;
 	width:100%;
 	min-height:700px;
 	background-size:cover;
@@ -63,7 +63,7 @@ background: url(../images/img-sprite.png) no-repeat -14px -2px;
 	height:auto;
 }
 .bannersite{
-	background:url(../img/employer-header.jpg) no-repeat center;
+	background:url(img/employer-header.jpg) no-repeat center;
 	width:100%;
 	min-height:700px;
 	background-size:cover;
